@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T13:34:57.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="uV5YKMJNWrk6-qp3L-ap" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T13:49:19.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="QkFc06710arfp1t9Gzr5" version="14.7.0" type="github">
   <diagram id="h5wG69jUnX-wgpqaN0SR" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,6 +146,96 @@
         </mxCell>
         <mxCell id="7YHZf2KEgaN3K6T-sw89-51" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="210" y="650" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYSPnupi3gkR3naTOdOy-1" target="TYSPnupi3gkR3naTOdOy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYSPnupi3gkR3naTOdOy-1" target="TYSPnupi3gkR3naTOdOy-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-1" value="이메일/비밀번호 찾기&lt;br&gt;flow chart" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="357" y="977" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYSPnupi3gkR3naTOdOy-2" target="TYSPnupi3gkR3naTOdOy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-2" value="이메일 찾기" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="357" y="1117" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYSPnupi3gkR3naTOdOy-10" target="TYSPnupi3gkR3naTOdOy-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="318" y="1265" />
+              <mxPoint x="318" y="1147" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYSPnupi3gkR3naTOdOy-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-10" value="닉네임 검사" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="377" y="1225" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYSPnupi3gkR3naTOdOy-15" target="TYSPnupi3gkR3naTOdOy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-15" value="비밀번호 찾기" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="536" y="1057" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYSPnupi3gkR3naTOdOy-17" target="TYSPnupi3gkR3naTOdOy-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-17" value="이메일 인증" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="536" y="1157" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYSPnupi3gkR3naTOdOy-19" target="TYSPnupi3gkR3naTOdOy-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="695" y="1304" />
+              <mxPoint x="695" y="1187" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYSPnupi3gkR3naTOdOy-19" target="TYSPnupi3gkR3naTOdOy-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-19" value="인증번호" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="556" y="1264" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-22" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="1197" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-23" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="686" y="1235" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-24" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="377" y="1318" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYSPnupi3gkR3naTOdOy-25" target="TYSPnupi3gkR3naTOdOy-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-25" value="새로운 비밀번호 입력" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="536" y="1387" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TYSPnupi3gkR3naTOdOy-23" target="TYSPnupi3gkR3naTOdOy-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-28" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="602" y="1352" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYSPnupi3gkR3naTOdOy-29" target="TYSPnupi3gkR3naTOdOy-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-29" value="유효성 검사" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="556" y="1489" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-31" value="새로운 비밀번호 등록" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="536" y="1608" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TYSPnupi3gkR3naTOdOy-35" value="이메일 반환" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="357" y="1382" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
